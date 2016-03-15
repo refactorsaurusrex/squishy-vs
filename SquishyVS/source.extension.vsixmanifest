@@ -3,7 +3,10 @@
   <Metadata>
     <Identity Id="SquishyVS.Nick Spreitzer.42c16348-07df-4686-8dae-2de82c065665" Version="1.0" Language="en-US" Publisher="Nick Spreitzer" />
     <DisplayName>SquishyVS</DisplayName>
-    <Description>Empty VSIX Project.</Description>
+    <Description xml:space="preserve">Overrides the default XML documentation collapsed region summary in Visual Studio 2015 to match the behavior in Visual Studio 2013.</Description>
+    <MoreInfo>https://github.com/refactorsaurusrex/squishy-vs</MoreInfo>
+    <Icon>icon.png</Icon>
+    <Tags>c#,xml documentation,folding,collapsing,2015,2013</Tags>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0]" />

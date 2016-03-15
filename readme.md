@@ -11,9 +11,9 @@
 **Now, isn't that nicer?**
 
 # Installation
-1) Download the `vsix` file from the [releases page](https://github.com/refactorsaurusrex/squishy-vs/releases).
-2) Run it.
-3) Profit!
+1. Download the `vsix` file from the [releases page](https://github.com/refactorsaurusrex/squishy-vs/releases).
+2. Run it.
+3. Profit!
 
 This extension is *not* yet listed in the Visual Studio Gallery. I'll do that soon.
 
